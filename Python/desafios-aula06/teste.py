@@ -1,0 +1,7 @@
+n = input('Digite algo:')
+print(f'É alfanumérico: {n.isalnum()}')
+print(f'É letra: {n.isalpha()}')
+print(f'É número: {n.isdigit()}')
+print(f'É minúsculo: {n.islower()}')
+print(f'É maiúsculo: {n.isupper()}')
+print(f'São só espaços em branco: {n.isspace()}')
