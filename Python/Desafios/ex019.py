@@ -1,0 +1,1 @@
+#Um progessor que sortear um dos seus quatro alunos para apgar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
